@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 💬 Ask me about Linux Operating Systems. (I'm a Distro Hopper :P)
 
 🌱 I’m currently learning Android Development, Programming in Java and more about Linux. 
+
+🤔 I’m looking for help with learning REACT.
