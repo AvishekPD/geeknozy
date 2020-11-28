@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning Android Development, Programming in Java and more about Linux. 
 
-🤔 I’m looking for help with learning REACT.
+<!--🤔 I’m looking for help with learning REACT.-->
