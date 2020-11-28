@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there welcome to my Github Profile. 👋
 
 <!--
 **geeknozy/geeknozy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+💬 Ask me about Linux Operating Systems.(I'm a Distro Hopper :P)
+
+🌱 I’m currently learning Android Development, Programming in Java and more about Linux. 
