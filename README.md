@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-.bg-black { background-color: #111111; }
 💬 Ask me about Linux Operating Systems. (I'm a Distro Hopper :P)
 
 🌱 I’m currently learning Android Development, Programming in Java and more about Linux. 
