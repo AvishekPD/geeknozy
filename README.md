@@ -1,7 +1,6 @@
 ### Hi there welcome to my GitHub profile. 👋
 <p align="right">
 <img width="500"
-	height="500"
 	alt="hey"
 	source=./picture.jpg>
 </p>
