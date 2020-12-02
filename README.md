@@ -1,9 +1,5 @@
 ### Hi there welcome to my GitHub profile. 👋
-<p align="right">
-<img width="500"
-	alt="hey"
-	source="./picture.jpg">
-</p>
+![pic](./picture.jpg)
 
 # About Me!
 <p> My name is Nozy! From <b>India!</b> <br>
