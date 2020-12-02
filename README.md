@@ -2,11 +2,16 @@
 <p align="right">
 <img width="500"
 	alt="hey"
-	source=./picture.jpg>
+	source="./picture.jpg">
 </p>
 
-My name is Nozy! From India!
-Ask me about Linux Operating Systems. (I'm a Distro Hopper :P)
-I’m currently learning Android Development, Programming in Java and more about Linux. 
-I'm also making various tutorial on how to do thing on Linux 
-Also made How to install Arch, modified method to install easily.
+# About Me!
+<p> My name is Nozy! From <b>India!</b> <br>
+Ask me about Linux Operating Systems. (I'm a Distro Hopper :P) <br>
+I'm also making various tutorial on how to do thing on Linux <br>
+I made how to install [Arch](https://github.com/geeknozy/Arch-Linux-Installation-Guide-2020), modified method to install easily. </p>
+
+### Currently Learning
+* Android Development
+* Java 
+* More about Linux
