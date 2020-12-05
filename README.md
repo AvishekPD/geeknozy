@@ -1,6 +1,6 @@
 ## Hi there welcome to my GitHub profile. 👋 <br>
 <p align="center">
-  <img width=300
+  <img width=600
        src=./readme_picture.jpg
        >
   </p>
