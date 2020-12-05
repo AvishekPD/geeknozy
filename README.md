@@ -22,4 +22,4 @@ I'm also making various tutorial on how to do thing on Linux <br> </p>
 
 
 #### Shoutouts : 
-1. AvishekPD https://github.com/AvishekPD 
+1. [AvishekPD](https://github.com/AvishekPD) 
