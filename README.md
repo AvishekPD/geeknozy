@@ -21,4 +21,5 @@ I'm also making various tutorial on how to do thing on Linux <br> </p>
 - [Conky](https://github.com/geeknozy/conky-configuration)
 
 
-Profile Readme credit: https://github.com/AvishekPD 
+#### Shoutouts : 
+1. AvishekPD https://github.com/AvishekPD 
