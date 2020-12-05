@@ -19,3 +19,6 @@ I'm also making various tutorial on how to do thing on Linux <br> </p>
 - [Arch](https://github.com/geeknozy/Arch-Linux-Installation-Guide-2020)
 - [OpenBox Config](https://github.com/geeknozy/Window-Tiling-on-OpenBox-Window-Manager)
 - [Conky](https://github.com/geeknozy/conky-configuration)
+
+
+Special Thanks to https://github.com/AvishekPD 
